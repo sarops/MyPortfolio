@@ -47,6 +47,7 @@ Even before starting my studies, I developed a passion for cybersecurity and IT 
 #### Cloud
 <div>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
 </div>
 
@@ -56,6 +57,7 @@ Even before starting my studies, I developed a passion for cybersecurity and IT 
 |-----------------------------------------------|----------------------------|
 | Case Management and Threat Intel Analysis           |MISP, Mattermost|
 | Cisco Router + Switch Configuration | Cisco Packet Tracer|
+| Configuring IAM policies | <a href="https://github.com/sarops/iam-gcp-project">Google Cloud Platform
 | Company Problems Solved -Project | <a href="https://github.com/sarops/python-companyproblems-project">Python, Visual Studio Code|
 | Creation of Custom Database | MySQL, UwAmp, phpMyAdmin|
 | Information Security Risk Assessment | ISO 27005 Standard|
